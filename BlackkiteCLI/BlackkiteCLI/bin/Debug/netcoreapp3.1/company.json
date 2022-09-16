@@ -1,0 +1,33 @@
+{
+  "CompanyId": 92403,
+  "CompanyName": "sosdattdsgyvae, Inc.",
+  "DomainName": "lottdlcasrde.com",
+  "Type": "normal",
+  "CyberRating": {
+    "GradeLetter": null,
+    "Cyberrating": null,
+    "BreachIndex": 0,
+    "RansomwareIndex": 0
+  },
+  "Compliance": {
+    "Rating": null,
+    "Confidence": null,
+    "Completeness": null
+  },
+  "FinancialImpact": null,
+  "DashboardLink": "https://seam.riskscore.cards/ecosystem/5281/company/92403/dashboard",
+  "Ecosystems": [
+    {
+      "EcosystemId": 5281,
+      "EcosystemName": "My Companies",
+      "InsertUser": null
+    }
+  ],
+  "Industry": {
+    "IndustryId": 81,
+    "IndustryName": "Other Services (except Public Administration)"
+  },
+  "Country": "",
+  "Tags": null,
+  "ScanStatus": "Extended Scan Queued"
+}

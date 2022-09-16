@@ -1,0 +1,2 @@
+2022-09-17 01:07:29.563 +03:00 [INF] Application Starting
+2022-09-17 01:07:29.744 +03:00 [INF] Requests Starting

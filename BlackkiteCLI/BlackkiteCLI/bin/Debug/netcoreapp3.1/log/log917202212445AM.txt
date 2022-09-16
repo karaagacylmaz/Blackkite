@@ -1,0 +1,9 @@
+2022-09-17 01:24:46.367 +03:00 [INF] Application Starting
+2022-09-17 01:24:46.577 +03:00 [INF] Requests Starting
+2022-09-17 01:24:47.362 +03:00 [INF] https://seam.riskscore.cards/api/v2/oauth/token
+2022-09-17 01:24:47.363 +03:00 [INF] {"grant_type":"client_credentials","client_id":"96b2359fece44788a0d07bbf0d052962","client_secret":"a964c8e22dfe470680e7577a6a1b68e4"}
+2022-09-17 01:24:47.608 +03:00 [INF] https://seam.riskscore.cards/api/v2/companies
+2022-09-17 01:24:47.609 +03:00 [INF] {"CompanyId":0,"MainDomainValue":"lottdlcasrde.com","CompanyName":"sosdattdsgyvae, Inc.","EcosystemId":5281,"LicenseType":"ContinuousAnnual","IsSubsidiary":false,"IsCloudProvider":false}
+2022-09-17 01:24:47.980 +03:00 [INF] https://seam.riskscore.cards/api/v2/companies/92403
+2022-09-17 01:24:48.168 +03:00 [INF] https://seam.riskscore.cards/api/v2/companies/search
+2022-09-17 01:24:48.169 +03:00 [INF] {"GenericSearchText":"Health","EcosystemIds":[5281],"IndustryIds":[81],"CountryCodes":[],"TagIds":[],"ProductGroupIds":[],"GradeLetters":[null],"ControlCodes":[],"CveOrCweCodes":[],"HasCriticalVuln":false,"HasLeakIn90Days":false,"HasPoorSsl":false,"HasPoorDdos":false,"HasPoorSmtp":false,"HasPoorDns":false,"CwssCvssBiggerThanValue":1}

@@ -1,0 +1,16 @@
+{
+  "environmentVariables": {
+    "apiBaseUrl": "https://seam.riskscore.cards/api/v2/",
+    "clientId": "96b2359fece44788a0d07bbf0d052962",
+    "clientSecret": "a964c8e22dfe470680e7577a6a1b68e4",
+    "grantType" : "client_credentials",
+    "company": {
+      "MainDomainValue": "lottdlcasrde.com",
+      "CompanyName": "sosdattdsgyvae, Inc.",
+      "EcosystemId": 5281,
+      "LicenseType": "ContinuousAnnual",
+      "IsSubsidiary": false,
+      "IsCloudProvider": false
+    }
+  }
+}
